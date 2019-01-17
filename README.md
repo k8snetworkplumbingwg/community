@@ -1,12 +1,12 @@
 # Network Plumbing Working Group
 
-The Network Plumbing Working Group (NPWG) was formed at Kubecon '17 in Austin to initially work towards implementing 
+The Network Plumbing Working Group (NPWG) was formed at Kubecon NA '17 in Austin to initially work towards implementing 
 a common standard addressing how one may attach multiple networks to pods in Kubernetes. Our work has culminated in a 
 de-facto standard CRD.
 
 ## Meetings
 
-* Join us for our bi-weekly meeting at 9:30AM Eastern Time on Thursday, opposite weeks from the SIG-Network meeting. We
+* Join us for our bi-weekly meeting at 9:30AM US Eastern Time on Thursday, opposite weeks from the SIG-Network meeting. We
 meet in the same [Zoom channel](https://zoom.us/j/361123509) as is used for SIG-Network.
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1oE93V3SgOGWJ4O1zeD1UmpeToa0ZiiO6LqRAmZBPFWM/edit)
   * [Meeting recordings](https://www.youtube.com/results?sp=CAI%253D&search_query=network+plumbing+wg): In youtube.
