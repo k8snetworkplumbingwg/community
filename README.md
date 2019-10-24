@@ -14,7 +14,7 @@ meet in the same [Zoom channel](https://zoom.us/j/361123509) as is used for SIG-
 ## Organizers
 
 * Dan Williams (**[@dcbw](https://github.com/dcbw)**), Red Hat
-* Kuralamudhan Ramakrishnan (**[@rkamudhan](https://github.com/rkamudhan)**), Intel
+* Doug Smith (**[@dougbtv](https://github.com/dougbtv)**), Red Hat
 
 ## Working Items
 
