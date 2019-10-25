@@ -19,7 +19,7 @@ meet in the same [Zoom channel](https://zoom.us/j/361123509) as is used for SIG-
 ## Working Items
 
 * Multi-Network CRD Specification
-  * [Repositories](https://github.com/K8sNetworkPlumbingWG/multi-net-spec): It contains finalized version.
+  * [Repositories](https://github.com/k8snetworkplumbingwg/multi-net-spec): It contains finalized version.
   * [Working doc](https://docs.google.com/document/d/2Ny03h6IDVy_e_vmElOqR7UdTPAG_RNydhVE1Kx54kFQ/edit)
 * Multi-Network Reference Implementations
   * [Multus CNI](http://multus-cni.io)
@@ -28,4 +28,4 @@ meet in the same [Zoom channel](https://zoom.us/j/361123509) as is used for SIG-
 
 * [Slack](https://intel-corp.herokuapp.com/): Join #general channel to discuss multus-cni and other related topics.
 * [Mailing list](https://groups.google.com/forum/#!forum/kubernetes-sig-network): We use sig-network mailing list.
-* [Open Community Issues/PRs](https://github.com/K8sNetworkPlumbingWG/community/issues)
+* [Open Community Issues/PRs](https://github.com/k8snetworkplumbingwg/community/issues)
