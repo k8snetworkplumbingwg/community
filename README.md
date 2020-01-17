@@ -20,7 +20,7 @@ meet in the same [Zoom channel](https://zoom.us/j/361123509) as is used for SIG-
 
 * Multi-Network CRD Specification
   * [Repositories](https://github.com/K8sNetworkPlumbingWG/multi-net-spec): It contains finalized version.
-  * [Working doc](https://docs.google.com/document/d/2Ny03h6IDVy_e_vmElOqR7UdTPAG_RNydhVE1Kx54kFQ/edit)
+  * [Working doc](https://docs.google.com/document/d/1Ny03h6IDVy_e_vmElOqR7UdTPAG_RNydhVE1Kx54kFQ/edit)
 * Multi-Network Reference Implementations
   * [Multus CNI](http://multus-cni.io)
 
