@@ -27,5 +27,5 @@ meet in the same [Zoom channel](https://zoom.us/j/361123509) as is used for SIG-
 ## Contact
 
 * [Slack](https://intel-corp.herokuapp.com/): Join #general channel to discuss multus-cni and other related topics.
-* [Mailing list](https://groups.google.com/forum/#!forum/kubernetes-sig-network): We use sig-network mailing list.
+* [Mailing list](https://groups.google.com/forum/#!forum/network-plumbing-working-group)
 * [Open Community Issues/PRs](https://github.com/K8sNetworkPlumbingWG/community/issues)
