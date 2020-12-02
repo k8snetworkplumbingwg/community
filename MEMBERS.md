@@ -20,3 +20,6 @@
 * Dan Williams (Red Hat)
 * Maciej Skrocki (Google)
 * Peter White (Metaswitch)
+* Zenghui Shi (Red Hat)
+* Peng Liu (Red Hat)
+

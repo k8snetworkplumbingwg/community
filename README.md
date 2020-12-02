@@ -11,6 +11,20 @@ meet in the same [Zoom channel](https://zoom.us/j/361123509) as is used for SIG-
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1oE93V3SgOGWJ4O1zeD1UmpeToa0ZiiO6LqRAmZBPFWM/edit)
   * [Meeting recordings](https://www.youtube.com/results?sp=CAI%253D&search_query=network+plumbing+wg): In youtube.
 
+### Topic Specific meetings
+
+*K8s Network & Resource Management*
+Every 2 weeks on Monday, 15:00-16:00 GMT
+[Agenda and connection info](https://docs.google.com/document/d/1sJQMHbxZdeYJPgAWK1aSt6yzZ4K_8es7woVIrwinVwI/edit#)
+
+*Additional Discussion (Currently focused on NetworkPolicy)*
+Every 2 weeks on Tuesday, 15:30-16:30 GMT
+[Agenda and connection info](https://www.google.com/url?q=https://docs.google.com/document/d/129FUXBHvKMOVwsvjgYzZX4CorsN_uJwHTdo8DXs1Tpk/edit%23&sa=D&source=calendar&ust=1607275227216000&usg=AOvVaw1FEnxaPipTtJRA0Db_m-OE)
+
+*Multus CNI Maintainers Meeting*
+Every 2 weeks on Thursday, 14:30-15:30 GMT
+[Agenda and connection info](https://www.google.com/url?q=https://docs.google.com/document/d/17-vkuoObBFBb6feXNA7tjTaKr-rs8ea0VTnqvlEdCv8/edit%23&sa=D&source=calendar&ust=1607275227216000&usg=AOvVaw39f1xzq2JtmpQUf5KEaZ5d)
+
 ## Members and Maintainers
 
 * [Members](MEMBERS.md)
