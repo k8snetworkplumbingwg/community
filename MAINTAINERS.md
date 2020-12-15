@@ -46,6 +46,8 @@
 * Killian Muldoon (Intel)
 * Zenghui Shi (Red Hat)
 * Peng Liu (Red Hat)
+* Adrian Chiris (Nvidia)
+* Moshe Levi (Nvidia)
 
 ## [SR-IOV CNI Plugin](https://github.com/k8snetworkplumbingwg/sriov-cni/)
 
@@ -54,6 +56,8 @@
 * Killian Muldoon (Intel)
 * Zenghui Shi (Red Hat)
 * Peng Liu (Red Hat)
+* Adrian Chiris (Nvidia)
+* Moshe Levi (Nvidia)
 
 ## [Device Information Spec](https://github.com/k8snetworkplumbingwg/device-info-spec)
 
