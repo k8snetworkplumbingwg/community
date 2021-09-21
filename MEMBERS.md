@@ -19,7 +19,7 @@
 * Moshe Levi (Nvidia)
 * Dan Williams (Red Hat)
 * Maciej Skrocki (Google)
-* Peter White (Metaswitch)
+* Peter White (Microsoft)
 * Zenghui Shi (Red Hat)
 * Peng Liu (Red Hat)
 
