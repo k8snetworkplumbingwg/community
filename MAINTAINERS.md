@@ -5,14 +5,14 @@
 * Doug Smith (Red Hat)
 * Tomofumi Hayashi (Red Hat)
 * Suresh Krishnan (Kaloom)
-* Peter White (Metaswitch)
+* Peter White (Microsoft)
 
 ## [Multi-Net-Spec](https://github.com/k8snetworkplumbingwg/multi-net-spec)
 
 * Doug Smith (Red Hat)
 * Tomofumi Hayashi (Red Hat)
 * Suresh Krishnan (Kaloom)
-* Peter White (Metaswitch)
+* Peter White (Microsoft)
 
 ## [Reference Deployments](https://github.com/k8snetworkplumbingwg/reference-deployment)
 
