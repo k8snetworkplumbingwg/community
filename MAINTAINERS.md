@@ -42,7 +42,7 @@
 ## [SR-IOV Device Plugin](https://github.com/k8snetworkplumbingwg/sriov-network-device-plugin)
 
 * Abdul Halim (Intel)
-* Martin Kennelly (Intel)
+* Martin Kennelly (Red Hat)
 * Killian Muldoon (Intel)
 * Zenghui Shi (Red Hat)
 * Peng Liu (Red Hat)
@@ -52,7 +52,7 @@
 ## [SR-IOV CNI Plugin](https://github.com/k8snetworkplumbingwg/sriov-cni/)
 
 * Abdul Halim (Intel)
-* Martin Kennelly (Intel)
+* Martin Kennelly (Red Hat)
 * Killian Muldoon (Intel)
 * Zenghui Shi (Red Hat)
 * Peng Liu (Red Hat)
@@ -69,7 +69,7 @@
 ## [Network Resources Injector](https://github.com/k8snetworkplumbingwg/network-resources-injector)
 
 * Abdul Halim (Intel)
-* Martin Kennelly (Intel)
+* Martin Kennelly (Red Hat)
 * Killian Muldoon (Intel)
 * Zenghui Shi (Red Hat)
 * Peng Liu (Red Hat)

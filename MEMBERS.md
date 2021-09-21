@@ -4,7 +4,7 @@
 * Tomofumi Hayashi (Red Hat)
 * Killian Muldoon (Intel)
 * Adrian Chiris (Nvidia)
-* Martin Kennelly (Intel)
+* Martin Kennelly (Red Hat)
 * Billy McFall (Red Hat)
 * Dave Cremins (Intel)
 * Per Andersson (Kaloom)
