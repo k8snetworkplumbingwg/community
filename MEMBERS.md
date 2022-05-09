@@ -2,7 +2,6 @@
 
 * Doug Smith (Red Hat)
 * Tomofumi Hayashi (Red Hat)
-* Killian Muldoon (Intel)
 * Adrian Chiris (Nvidia)
 * Martin Kennelly (Red Hat)
 * Billy McFall (Red Hat)

@@ -43,7 +43,6 @@
 
 * Abdul Halim (Intel)
 * Martin Kennelly (Red Hat)
-* Killian Muldoon (Intel)
 * Zenghui Shi (Red Hat)
 * Peng Liu (Red Hat)
 * Adrian Chiris (Nvidia)
@@ -53,7 +52,6 @@
 
 * Abdul Halim (Intel)
 * Martin Kennelly (Red Hat)
-* Killian Muldoon (Intel)
 * Zenghui Shi (Red Hat)
 * Peng Liu (Red Hat)
 * Adrian Chiris (Nvidia)
@@ -70,6 +68,5 @@
 
 * Abdul Halim (Intel)
 * Martin Kennelly (Red Hat)
-* Killian Muldoon (Intel)
 * Zenghui Shi (Red Hat)
 * Peng Liu (Red Hat)
