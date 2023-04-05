@@ -52,6 +52,6 @@ Every 2 weeks on Thursday, 14:30-15:30 GMT
 
 ## Contact
 
-* [Slack](https://intel-corp.herokuapp.com/): Join #general channel to discuss multus-cni and other related topics.
+* [Slack](https://npwg-team.slack.com/): Join #general channel to discuss multus-cni and other related topics.
 * [Mailing list](https://groups.google.com/forum/#!forum/network-plumbing-working-group)
 * [Open Community Issues/PRs](https://github.com/k8snetworkplumbingwg/community/issues)
