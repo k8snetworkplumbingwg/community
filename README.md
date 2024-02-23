@@ -38,14 +38,9 @@ Every 2 weeks on Thursday, 15:00-15:30 GMT
 
 ## Members and Maintainers
 
-* [Members](MEMBERS.md)
-* [Maintainers](MAINTAINERS.md)
-* [GitHub Organization Owners](OWNERS.md)
+* [Members](MEMBERS)
+* [GitHub Organization Owners](OWNERS)
 
-## Organizers
-
-* Dan Williams (**[@dcbw](https://github.com/dcbw)**), Red Hat
-* Doug Smith (**[@dougbtv](https://github.com/dougbtv)**), Red Hat
 
 ## Working Items
 
