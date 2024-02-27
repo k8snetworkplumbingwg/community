@@ -21,9 +21,9 @@ Weekly, Monday and Tuesday on alternating weeks:
 
 [Agenda and connection info](https://docs.google.com/document/d/1sJQMHbxZdeYJPgAWK1aSt6yzZ4K_8es7woVIrwinVwI/edit#)
 
-#### Additional Discussion (Currently focused on NetworkPolicy)
+#### Additional Discussion (Currently on pause)
 
-Every 2 weeks on Tuesday, 15:30-16:30 GMT
+[Paused until further notice] Every 2 weeks on Tuesday, 15:30-16:30 GMT
 [Agenda and connection info](https://www.google.com/url?q=https://docs.google.com/document/d/129FUXBHvKMOVwsvjgYzZX4CorsN_uJwHTdo8DXs1Tpk/edit%23&sa=D&source=calendar&ust=1607275227216000&usg=AOvVaw1FEnxaPipTtJRA0Db_m-OE)
 
 #### Multus CNI Maintainers Meeting
