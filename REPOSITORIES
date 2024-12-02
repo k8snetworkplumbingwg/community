@@ -36,6 +36,7 @@ multus-dynamic-networks-controller https://github.com/k8snetworkplumbingwg/multu
 cni-log https://github.com/k8snetworkplumbingwg/cni-log
 net-ebpf-playground https://github.com/k8snetworkplumbingwg/net-ebpf-playground
 ptp-operator https://github.com/k8snetworkplumbingwg/ptp-operator
+linuxptp-daemon https://github.com/k8snetworkplumbingwg/linuxptp-daemon
 bridge-operator https://github.com/k8snetworkplumbingwg/bridge-operator
 ipamclaims https://github.com/k8snetworkplumbingwg/ipamclaims
 
