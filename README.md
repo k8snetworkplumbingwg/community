@@ -33,7 +33,7 @@ Every 2 weeks on Thursday, 14:30-15:30 GMT
 
 #### PTP Meeting
 
-Every 2 weeks on Thursday, 15:00-15:30 GMT
+Every week on Wednesday, 15:00-15:30 GMT
 [Agenda and connection info](https://docs.google.com/document/d/1uE4U2-6_cAqxX6ZUndhvRGs5g1s2h4KntmRaOQ2y4T4/edit?usp=sharing)
 
 ## Members and Maintainers
