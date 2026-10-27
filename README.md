@@ -52,6 +52,7 @@ Every week on Wednesday, 15:00-15:30 GMT
 
 ## Contact
 
+* [CNCF Slack](https://cloud-native.slack.com/archives/C0C0JJF4U8L): Join the CNCF Slack channel to discuss Network Plumbing Working Group topics. [Invite yourself to the CNCF Slack workspace](https://slack.cncf.io/).
 * [Slack](https://join.slack.com/t/npwg-team/shared_invite/zt-1u2vmsn2b-tKdOokdPY73zn9B32JoAOg): Join #general channel to discuss multus-cni and other related topics.
 * [Mailing list](https://groups.google.com/forum/#!forum/network-plumbing-working-group)
 * [Open Community Issues/PRs](https://github.com/k8snetworkplumbingwg/community/issues)
